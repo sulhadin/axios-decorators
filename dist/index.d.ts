@@ -24,7 +24,7 @@ declare module 'axios-decorators' {
 
   export class ClientConfigurator {
     static setBaseURL (baseURL: string | ((serviceName: string) => void)): void;
-    static setHeaders (headers: string | ((serviceName: string) => void)): void;
+    static setHeaders (headers: object | ((serviceName: string) => void)): void;
     static getBaseURL (serviceName: string): string;
     static getHeaders (serviceName: string): string;
   }
