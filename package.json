@@ -2,8 +2,19 @@
   "name": "axios-decorators",
   "version": "1.0.0",
   "author": "Berkay Yildiz",
-  "description": "",
+  "description": "It is an HTTP client library that uses Axios and JavaScript decorators. It is inspired by the popular Android library Retrofit.",
   "main": "dist/index.js",
+  "keywords": [
+    "axios",
+    "decorators",
+    "babel",
+    "rest",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FriendsOfReact/axios-decorators"
+  },
   "standard": {
     "parser": "babel-eslint",
     "plugins": [
