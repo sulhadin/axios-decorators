@@ -1,4 +1,7 @@
 # Axios Decorators
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=FriendsOfReact_axios-decorators&metric=alert_status)](https://sonarcloud.io/dashboard?id=FriendsOfReact_axios-decorators)
+
 It is an HTTP client library that uses Axios and JavaScript decorators. It is inspired by the popular Android library [Retrofit](https://github.com/square/retrofit). 
 
 <p align="center">
